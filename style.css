@@ -534,7 +534,7 @@ a{
 
 .skillFadedText {
   font-size: 12em;
-  right: -9%;
+  right: 0px;
   bottom: -35%;
   user-select: none;
   color: #e7e7e7;
